@@ -1,0 +1,6 @@
+name: TrapDoorStop
+version: '${project.version}'
+main: me.pumpkinpro.trapdoorstop.TrapDoorStop
+commands:
+  trapdoorstop:
+    permission: trapdoorstop.command
